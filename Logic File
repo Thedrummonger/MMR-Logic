@@ -310,13 +310,13 @@
 0
 21
 - Peahat Grotto HP
+286
 
-283;88;89
 0
 0
 - Dodongo Grotto HP
+286
 
-283,284;115
 0
 0
 - Woodfall Chest HP
@@ -1136,7 +1136,7 @@
 0
 - South Clock Town 20r
 
-283;10
+283;10;266
 0
 0
 - South Clock Town 50r
@@ -1376,7 +1376,7 @@
 0
 - Bomb Hovering
 284
-24,283;25,283;24,286;25,286
+5;24;25
 0
 0
 - Goron Boost
