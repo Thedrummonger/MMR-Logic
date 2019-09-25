@@ -430,7 +430,7 @@
 0
 32
 - Mask of Truth
-286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315
+286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,460
 
 0
 0
@@ -1735,303 +1735,303 @@
 0
 0
 - Woodfall Pre-Boss Lower Right Bubble
-
-
+104,120
+0;10
 0
 0
 - Woodfall Entrance Fairy
-
+104
 
 0
 0
 - Woodfall Pre-Boss Upper Left Bubble
-
-
+104,120
+0;10,76
 0
 0
 - Woodfall Pre-Boss Pillar Bubble
-
-
+104,120
+0;10,76
 0
 0
 - Woodfall Deku Baba
-
-
+104
+0;10
 0
 0
 - Woodfall Poison Water Bubble
-
-
+104
+0,120;10,76;10,120
 0
 0
 - Woodfall Main Room Bubble
-
-
+104
+0,120;10;0,129
 0
 0
 - Woodfall Skulltula
-
-
+104
+0,120;10;0,129
 0
 0
 - Woodfall Pre-Boss Upper Right Bubble
-
-
+104,120
+0;10
 0
 0
 - Woodfall Main Room Switch
-
-
+104
+0,129;0,120
 0
 0
 - Woodfall Entrance Platform
-
-
+104
+0;10
 0
 0
 - Woodfall Dark Room
-
-
+104
+0,120;0,129;10
 0
 0
 - Woodfall Jar Fairy
-
-
+104
+0;10
 0
 0
 - Woodfall Bridge Room Hive
-
-
+104
+0,129,433;0,120;10
 0
 0
 - Woodfall Platform Room Hive
-
-
+104
+0,433;10,76;0,120;0,76,93
 0
 0
 - Snowhead Snow Room Bubble
-
+107,92,433,2,120,76,447
 
 0
 0
 - Snowhead Ceiling Bubble
-
-
+107,76
+92,119,120,454;10,92,119,447;93,119,120,447;2,92,120,433;2,93,120,433
 0
 0
 - Snowhead Dinolfos 1
-
+107,92,433,2,120,447
 
 0
 0
 - Snowhead Bridge Room Ledge Bubble
-
-
+107
+76,92,120;92,10;92,433;93
 0
 0
 - Snowhead Bridge Room Pillar Bubble
-
-
+107
+76,92,120;92,10;92,433;93
 0
 0
 - Snowhead Dinolfos 2
-
+107,92,433,2,120,447
 
 0
 0
 - Snowhead Map Room Fairy
-
-
+107
+93;92,433;92,10;92,119,454
 0
 0
 - Snowhead Map Room Ledge
-
-
+107,92,433
+2,120;10,119,447;93,119,447;119,454
 0
 0
 - Snowhead Basement
-
-
+107,92
+433;10;119,434,454
 0
 0
 - Snowhead Twin Block
-
-
+107,92
+10,433;10,447;2,120,433,447;93
 0
 0
 - Snowhead Icicle Room Wall
-
-
+107
+92,119,447;2,92,120,433,447;10,92,119;93,119
 0
 0
 - Snowhead Main Room Wall
-
-
+107
+92,10;93,10;92,433,2,120
 0
 0
 - Snowhead Pillar Freezards
-
-
+107,433,2,120
+92;93
 0
 0
 - Snowhead Ice Puzzle
-
-
+107,433,2,120
+92,447;92,10;93
 0
 0
 - Snowhead Crate
-
-
+107
+2,92,120,433,446,447;76,92,446,447;10,92;93,119;92,93
 0
 0
 - Great Bay Skulltula
-
+112,10
 
 0
 0
 - Great Bay Pre-Boss Room Underwater Bubble
-
+112,93,120,3,433,10
 
 0
 0
 - Great Bay Water Control Room Underwater Bubble
-
-
+112,10
+93;76
 0
 0
 - Great Bay Pre-Boss Room Bubble
-
+112,93,120,3,433,10
 
 0
 0
 - Great Bay Waterwheel Room Upper
-
+112,93,120,3,433,10
 
 0
 0
 - Great Bay Green Valve
-
+112,93,120,3,433,10
 
 0
 0
 - Great Bay Seesaw Room
-
+112,93,120,3,433,10,2
 
 0
 0
 - Great Bay Waterwheel Room Lower
-
+112,93,120,3,433,10
 
 0
 0
 - Great Bay Entrance Torches
-
+112,10
 
 0
 0
 - Great Bay Bio Babas
-
+112,93,10
 
 0
 0
 - Great Bay Underwater Barrel
-
+112,93,120,3,433,10
 
 0
 0
 - Great Bay Whirlpool Jar
-
+112,93,10
 
 0
 0
 - Great Bay Whirlpool Barrel
-
+112,93,10
 
 0
 0
 - Great Bay Dexihands Jar
-
+112,93,10
 
 0
 0
 - Great Bay Ledge Jar
-
-
+112,93,10
+76;3,120,433
 0
 0
 - Stone Tower Mirror Sun Block
-
-
+116
+25,119,450;4,120,433,449
 0
 0
 - Stone Tower Eyegore
-
-
+116
+0,25,119,450;4,120,433,449
 0
 0
 - Stone Tower Lava Room Fire Ring
-
-
+116
+0,25,119,450;4,120,433,449
 0
 0
 - Stone Tower Updraft Fire Ring
-
+117,116,4,120,433,0
 
 0
 0
 - Stone Tower Mirror Sun Switch
-
-
+116
+25,119,450;4,120,433,449
 0
 0
 - Stone Tower Boss Warp
-
+117,4,120,433
 
 0
 0
 - Stone Tower Wizzrobe
-
+117,0,92,4,120,433,10,449
 
 0
 0
 - Stone Tower Death Armos
-
+117,0,4,120,433,436,116
 
 0
 0
 - Stone Tower Updraft Frozen Eye
-
+117,0,2,4,120,433
 
 0
 0
 - Stone Tower Thin Bridge
-
+117,0,4,120,433,116,450
 
 0
 0
 - Stone Tower Basement Ledge
-
-
+116
+119;4,120,433,449
 0
 0
 - Stone Tower Statue Eye
-
+116,120
 
 0
 0
 - Stone Tower Underwater
-
+117,116,4,120,433
 
 0
 0
 - Stone Tower Bridge Crystal
-
+116,4,120,433
 
 0
 0
 - Stone Tower Lava Room Ledge
-
-
+116,0
+25,119,450;4,120,433,449
 0
 0
 - Lottery 50r
@@ -2105,12 +2105,12 @@
 21
 0
 - Ocean Spider House 50r
-316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345
+316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,110
 
 12
 0
 - Ocean Spider House 20r
-316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345
+316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,110
 
 48
 0
@@ -2120,7 +2120,7 @@
 0
 0
 - Lulu Pictograph 20r
-8,100,110,93
+8,110,93
 
 0
 0
@@ -2140,27 +2140,27 @@
 0
 0
 - Curiosity Shop 5r
-
+439
 175;467
 0
 0
 - Curiosity Shop 20r
 439
-168;169;166;467;468;148;157;417;155;418;172;173;174
+168;169;166;467;468;148;157;417;155;418;172;173;174;150
 0
 0
 - Curiosity Shop 50r
+439,170
 
-170
 0
 0
 - Curiosity Shop 200r
 
-171;21;409,439
+171;21;409,439;18
 0
 0
 - Seahorse
-8,75,110
+8,110,93
 
 0
 0
@@ -2269,9 +2269,9 @@
 158,439;160,439;119;7,92
 0
 0
-- (Unused)
+- Two Snowhead Keys
 
-
+133,134;133,135;134,135
 0
 0
 - Climbable Stone Tower
