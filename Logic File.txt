@@ -856,7 +856,7 @@
 0
 - Bottle: Big Poe
 757
-851,811,270,752;811,120,851;869,6,648,760,120;6,648,760,869,270;869,649,760,120;649,760,869,270
+851,811,270,752;811,120,851;120,648,869,760,6,88;270,648,869,760,6,88;120,649,869,760,88;270,649,869,760,88
 0
 0
 - Bottle: Spring Water
@@ -1436,11 +1436,11 @@
 0
 - Swamp Skulltula Gold Room Near Ceiling
 542
-10;93;767,768
+10;93;767,768,878
 0
 0
 - Swamp Skulltula Monument Room Torch
-542
+542,878
 
 0
 0
@@ -1455,12 +1455,12 @@
 0
 0
 - Swamp Skulltula Tree Room Grass 1
-542
+542,878
 
 0
 0
 - Swamp Skulltula Tree Room Grass 2
-542
+542,878
 
 0
 0
@@ -1491,7 +1491,7 @@
 0
 - Swamp Skulltula Monument Room Lower Wall
 542
-10;93;92,767,768;119,767,768
+10;93;767,768,878
 0
 0
 - Swamp Skulltula Monument Room On Monument
@@ -1525,12 +1525,12 @@
 0
 0
 - Swamp Skulltula Pot Room Behind Vines
-542,759
-
+542
+759;270
 0
 0
 - Swamp Skulltula Tree Room Tree 1
-542
+542,878
 
 0
 0
@@ -1545,7 +1545,7 @@
 0
 0
 - Swamp Skulltula Tree Room Tree 2
-542
+542,878
 
 0
 0
@@ -1570,7 +1570,7 @@
 0
 0
 - Swamp Skulltula Tree Room Tree 3
-542
+542,878
 
 0
 0
@@ -2070,12 +2070,12 @@
 0
 0
 - Pictograph Contest 5r
-
+8
 867
 0
 0
 - Pictograph Contest 20r
-
+8
 770
 0
 0
@@ -2191,7 +2191,7 @@
 21
 - EntranceHoneyDarlingsShopFromEastClockTown
 793
-
+855;270
 0
 0
 - EntranceBeneathGraveyardFromIkanaGraveyardNight2
@@ -2216,7 +2216,7 @@
 0
 - EntranceSouthernSwampFromWoodfall
 
-636;637,828,92;637,828,93;828,637,270;639,270,828;639,92,828;93,639,828;786,105;638,103;640,103
+873
 0
 0
 - EntranceSouthernSwampFromDekuPalaceLower
@@ -2300,7 +2300,7 @@
 0
 0
 - EntranceGrottoPalaceStraightFromDekuPalaceA
-814
+814,556
 
 0
 0
@@ -2310,7 +2310,7 @@
 0
 0
 - EntranceGrottoPalaceVinesFromDekuPalaceLower
-814
+814,558
 
 0
 0
@@ -2335,12 +2335,12 @@
 21
 0
 - EntranceGrottoPalaceStraightFromDekuPalaceB
-814
+814,555
 
 0
 0
 - EntranceGrottoPalaceVinesFromDekuPalaceUpper
-814
+814,554
 
 0
 0
@@ -2490,8 +2490,8 @@
 0
 0
 - EntranceStoneTowerTempleInvertedBossRoomFromStoneTowerTempleInverted
-117,142
-835,816;816,755;756,0,835,10
+117,142,10
+835,816;816,755;0,756,835
 0
 0
 - EntranceClockTowerRooftopFromSouthClockTown
@@ -2575,7 +2575,7 @@
 0
 0
 - EntranceOdolwasLairFromWoodfallTemple
-128,120
+128,120,104
 0;10
 0
 0
@@ -2641,7 +2641,7 @@
 0
 - EntrancePiratesFortressBarrelMazeFromBackDoor
 
-489;10,772
+489;10,772;772,270
 0
 0
 - EntrancePiratesFortressOneGuardFrontFromPiratesFortress
@@ -2745,8 +2745,8 @@
 0
 0
 - EntranceDekuPalaceFromDekuPalace
-777
 
+777;622
 0
 0
 - EntranceDekuPalaceFromDekuKingsChamberMain
@@ -2875,7 +2875,7 @@
 0
 32
 - EntranceDampsHouseFromIkanaGraveyardDoor
-815
+815,785
 818;98,120,759,74;98,270,74;819,822;98,120,822;98,270,822
 0
 0
@@ -2956,12 +2956,12 @@
 0
 - EntranceTwinmoldsLairFromStoneTowerTempleInverted
 
-498;816,835,117;0,10,119,835,117
+498;117,835,816,10;0,10,119,835,117
 0
 0
 - EntranceGreatBayCoastFromTerminaField
 
-778,96;562;778,821;778,816
+778,96;562;778,821;778,816;778,270,760;778,760,759;778,760,798;778,760,93
 0
 0
 - EntranceGreatBayCoastFromZoraCape
@@ -3030,8 +3030,8 @@
 0
 0
 - EntranceZoraCapeFromZoraCape
-
 782
+
 0
 0
 - EntranceZoraCapeFromWaterfallRapids
@@ -3085,8 +3085,8 @@
 0
 0
 - EntrancePiratesFortressExteriorFromThrownOut
-772
 
+772;529;530,759;523;525;526,759;527;528,759
 0
 0
 - EntrancePiratesFortressExteriorFromPiratesFortressBalcony
@@ -3155,7 +3155,7 @@
 0
 0
 - EntranceIkanaGraveyardFromDay3Grave
-814
+814,574
 
 0
 0
@@ -3210,7 +3210,7 @@
 0
 0
 - EntranceZoraTrialFromZoraTrial
-
+93
 641;642
 0
 0
@@ -3281,7 +3281,7 @@
 0
 - EntranceGoronGraveyardFromMountainVillage
 
-9,788,752;788,108;660
+9,788,752;108,788,92;660;832,108,788,759
 0
 0
 - EntranceSakonsHideoutFromIkanaCanyon
@@ -3391,7 +3391,7 @@
 0
 - EntrancePathtoSnowheadFromSnowhead
 
-680,92,99;681,92,99;682;679
+680,92,99;681;682;679
 0
 0
 - EntranceSnowheadFromPathtoSnowhead
@@ -3431,7 +3431,7 @@
 0
 - EntranceGyorgsLairFromGreatBayTemple
 112
-834,3,10,93,138;138,270,816
+834,3,10,93,138;138,270,816;760,93,815
 0
 0
 - EntranceSecretShrineFromIkanaCanyon
@@ -3685,7 +3685,7 @@
 0
 0
 - EntranceSouthClockTownFromClockTowerRooftop
-814
+814,499
 
 0
 0
@@ -3936,7 +3936,7 @@
 0
 - AccessGoronVillage
 
-643;644;645
+643;644;645,10;645,120;9,645,752
 0
 0
 - AccessMountainVillage
@@ -3989,7 +3989,7 @@
 739;740
 0
 0
-- Deku Stick
+- Any Deku Stick
 
 151;770,825;825,826;778,825;781,825;119,782;784,825;785,119;786,0;108,788,92;782,92;799,825;805
 0
@@ -4135,7 +4135,7 @@
 0
 0
 - Ikana Caslte Left
-
+834
 0;270
 0
 0
@@ -4150,7 +4150,7 @@
 0
 0
 - Ikana Caslte Right
-
+834
 93,829;270,829;0
 0
 0
@@ -4311,7 +4311,7 @@
 0
 - AccessSouthernSwampSpiderIsland
 
-770,813;864,829;864,93;864,270;864,0;864,119;863,829;119,863;863,93;863,270;863,0;105,867;542;865,868;866,868
+770,813;864,829;864,93;864,270;864,0;864,119;863,829;119,863;863,93;863,270;863,0;105,867;448;865,868;866,868
 0
 0
 - AccessSouthernSwampGrottoIsland
@@ -4366,7 +4366,7 @@
 0
 - AccessWoodfallMainIsland
 
-636;871,0;871,270,828;872,0;270,828,872;786,105;637,270,828;639,270,828
+636;871,0;871,270,828;872,0;270,828,872;786,105;637,270,828;829,639
 0
 0
 - Odalwa Kill
@@ -4387,5 +4387,10 @@
 - Twinmold Kill
 
 26;27;91,13;91,11,21;91,11,409,757
+0
+0
+- Skulltula Kill
+
+798;93;92;0;270;120;10;119
 0
 0
