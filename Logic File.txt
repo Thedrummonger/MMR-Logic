@@ -535,7 +535,7 @@
 0
 0
 - Snowhead Temple access
-759,517
+517
 
 0
 0
@@ -1090,13 +1090,13 @@
 0
 0
 - Stone Tower Bombchu 10
-120,4,752,767,768
-674,833,757;674,833,101;674,833,818;675;676,757;676,101;676,818;741,757;741,101;741,818
+767,768
+883
 0
 0
 - Stone Tower Magic Bean
-120,4,752,767,768
-674,833,757;674,833,101;674,833,818;675;676,757;676,101;676,818;741,757;741,101;741,818
+767,768
+883
 0
 0
 - Path to Snowhead Grotto
@@ -1110,7 +1110,7 @@
 0
 0
 - Secret Shrine HP
-120,4,759,752,687,15
+120,4,759,752,687
 119;10
 0
 0
@@ -1125,7 +1125,7 @@
 0
 0
 - Secret Shrine Wart
-120,4,759,752,687,15
+120,4,759,752,687
 119;10
 0
 0
@@ -2070,13 +2070,13 @@
 0
 0
 - Pictograph Contest 5r
-8
-867
+8,867,673
+
 0
 0
 - Pictograph Contest 20r
-8
-770
+8,867,673
+
 0
 0
 - Swamp Scrub Magic Bean
@@ -2101,7 +2101,7 @@
 0
 - Gorman Bros Purchase Milk
 
-700;821
+700;821,701
 0
 21
 - Ocean Spider House 50r
@@ -2586,7 +2586,7 @@
 21
 - EntranceSnowheadTempleFromSnowhead
 790
-92,99;108,832;108,92;680
+92,99;108,880;680
 0
 0
 - EntranceMilkRoadFromTerminaField
@@ -4421,6 +4421,6 @@
 0
 - Cross Stone Tower Top Blocks
 
-818;757,168,169;101
+818;757;101
 0
 0
